@@ -2,7 +2,7 @@ This Code is an implementation of Arduino-Based Wireless, Low Cost and Low Power
 
 Please refer to the paper for circuit and connection guidance
 
-The work is publushed in IEEE SENSORS 2021 conference. please cite the paper when using the code 
+The work is publushed in IEEE ICECS 2021 conference. please cite the paper when using the code 
 
 Paper: 
 
